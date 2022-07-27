@@ -1,7 +1,6 @@
 Hi,
 My name is Shreyas Seetharaman. I was born on November 8th 1999 in Atlanta, Georgia. 
-I am currently studying to get a degree on Computer Science and Engineering.
-About my soft skills:
+Soft Skills:
   I possess excellent communication skills to convince potential clients and customers and am a highly
   motivated individual with excellent leadership abilities, good decision-making capabilities & team
   management skills who thrives in a fast-paced working environment possessing good interpersonal
